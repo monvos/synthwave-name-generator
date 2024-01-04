@@ -1,0 +1,20 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap'); */
+
+@font-face {
+  font-family: 'Bangers';
+  src: url('./assets/Bangers-Regular.ttf') format('truetype');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  background-color: #260433;
+}
+
+.asd {
+  font-family: 'Bangers', cursive;
+  /* font-display: swap; */
+}
